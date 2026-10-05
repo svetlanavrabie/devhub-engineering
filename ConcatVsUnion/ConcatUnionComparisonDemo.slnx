@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="ConcatUnionComparisonDemo.Tests/ConcatUnionComparisonDemo.Tests.csproj" />
   <Project Path="ConcatUnionComparisonDemo/ConcatUnionComparisonDemo.csproj" />
 </Solution>
